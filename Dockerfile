@@ -1,4 +1,4 @@
-FROM node:16.13
+FROM node:16.16.0
 
 COPY . /usr/todoapp
 
